@@ -1,0 +1,4 @@
+resolum_frontend\imgs
+Resolum api\.env
+Resolum api\node_modules
+resolum_frontend\node_modules
