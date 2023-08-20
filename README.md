@@ -25,14 +25,17 @@ In the docker-compose.yml file you will find the above structure in the 'backend
 
 When you are done configuring the 'docker-compose.yml' file all you have to do is run `docker-compose up` in the directory of the 'docker-compose.yml' file and wait untill all the services are set up.
 
-## Usage
+## Testing
+To test the application run `npm test`, in the backend directory (`cd backend`).
 
+## Usage
 To use the application you have to go to `localhost:3000`, here you will find the frontend. You can interact with the different clips and the changes will be reflected in your own Resolume arena.
+
 ## Dependencies
 To run this entire application you will have to install [Docker](https://docs.docker.com/engine/install/).
 
 ## License
-this project is released under the [MIT License](./LICENSE).
+This project is released under the [MIT License](./LICENSE).
 
 ## Contact
 Yassin Bendella
