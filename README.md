@@ -14,12 +14,12 @@ To make sure the backend can communicate with the Resolume Webserver and the RES
 
 ```yml
 environment:
-	- PORT=5000
-	- DB_HOST=db
-	- DB_USER=root
-	- DB_PASSWORD=root	
-	- DB_SCHEME=resolume
-	- IP=<IP ADDRESS>
+- PORT=5000
+- DB_HOST=db
+- DB_USER=root
+- DB_PASSWORD=root	
+- DB_SCHEME=resolume
+- IP=<IP ADDRESS>
 ```
 In the docker-compose.yml file you will find the above structure in the 'backend' service. Here you have to replace <IP ADDRESS> with the IP address of the host computer.
 
@@ -36,7 +36,10 @@ this project is released under the [MIT License](./LICENSE).
 
 ## Contact
 Yassin Bendella
+<br>
 If you have any questions, please feel free to send me a messsage on discord, linkedin or just through my email.
+<br>
 YassinDella#7708
+<br>
 [My Linkedin]()
 [yassin.bendella@student.ehb.be](yassin.bendella@student.ehb.be)
