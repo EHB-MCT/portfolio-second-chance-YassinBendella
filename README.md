@@ -32,7 +32,7 @@ To test the application run `npm test`, in the backend directory (`cd backend`).
 To use the application you have to go to `localhost:3000`, here you will find the frontend. You can interact with the different clips and the changes will be reflected in your own Resolume arena.
 
 ## Dependencies
-To run this entire application you will have to install [Docker](https://docs.docker.com/engine/install/) and [Resolume Arena]([https://docs.docker.com/engine/install/](https://www.resolume.com/download/)).
+To run this entire application you will have to install [Docker](https://docs.docker.com/engine/install/) and [Resolume Arena](https://www.resolume.com/download/).
 
 ## License
 This project is released under the [MIT License](./LICENSE).
