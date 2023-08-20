@@ -45,4 +45,5 @@ If you have any questions, please feel free to send me a messsage on discord, li
 YassinDella#7708
 <br>
 [My Linkedin](https://www.linkedin.com/in/yass%C3%AEn-bendella-8263721a2/)
+<br>
 [yassin.bendella@student.ehb.be](yassin.bendella@student.ehb.be)
